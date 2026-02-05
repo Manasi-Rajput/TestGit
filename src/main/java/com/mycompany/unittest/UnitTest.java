@@ -13,4 +13,7 @@ public class UnitTest {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    public double add(double a, double b){
+        return a+b;
+    }
 }
